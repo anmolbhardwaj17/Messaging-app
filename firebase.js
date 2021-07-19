@@ -2,15 +2,15 @@ import * as firebase from "firebase";
 import "firebase/auth";
 import "firebase/firestore";
 
-
+//config file from firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyDTSVRvjQaH5SgdvAtSbBVwUH4E3ok_ENU",
-    authDomain: "signal-build-1.firebaseapp.com",
+    apiKey: "",
+    authDomain: "",
     projectId: "signal-build-1",
-    storageBucket: "signal-build-1.appspot.com",
-    messagingSenderId: "207066587727",
-    appId: "1:207066587727:web:918b68e25f970a14ae403a",
-    measurementId: "G-F1BMTK40QN"
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
 
   let app;
